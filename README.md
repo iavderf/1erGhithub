@@ -1,2 +1,2 @@
 # 1erGhithub
-1er test (Exercice)
+// Ceci est le 1er exercice Guithub d'OpenClassRooms
